@@ -1,2 +1,5 @@
-print("Hello World")
-print ("Hola Mundo")
+print("Hello world")
+print ("Hola mundo")
+print ("Ciao mondo")
+print ("Salam dünya")
+print ("Привет мир")
